@@ -5,7 +5,7 @@ from typing import List, TypedDict
 # documents  - contains all the retrieved documents from both local and web sources.
 
 class GraphState(TypedDict):
-    """
+    """       
     Represents the state of our graph.
 
     Attributes:
